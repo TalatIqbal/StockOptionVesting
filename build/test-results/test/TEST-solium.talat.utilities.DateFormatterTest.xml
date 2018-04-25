@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="solium.talat.utilities.DateFormatterTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-06-11T04:58:21" hostname="DESKTOP-SOSFQ7V" time="0.001">
+  <properties/>
+  <testcase name="testToDate_ValidFormat" classname="solium.talat.utilities.DateFormatterTest" time="0.0"/>
+  <testcase name="testToDate_InValidFormat" classname="solium.talat.utilities.DateFormatterTest" time="0.001"/>
+  <system-out><![CDATA[Check the date format
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

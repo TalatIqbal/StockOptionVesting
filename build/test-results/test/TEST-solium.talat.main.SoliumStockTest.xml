@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="solium.talat.main.SoliumStockTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-06-11T04:58:21" hostname="DESKTOP-SOSFQ7V" time="0.01">
+  <properties/>
+  <testcase name="testComputeGain_VestSalePerf_DifferentParams" classname="solium.talat.main.SoliumStockTest" time="0.005"/>
+  <testcase name="testComputeGain_VestSalePerf" classname="solium.talat.main.SoliumStockTest" time="0.001"/>
+  <testcase name="testComputeGain_OnlyVest" classname="solium.talat.main.SoliumStockTest" time="0.0"/>
+  <testcase name="testComputeGain_VestAndSale_LegalLimits" classname="solium.talat.main.SoliumStockTest" time="0.001"/>
+  <testcase name="testComputeGain_VestSalePerf_ChronologicalCompute" classname="solium.talat.main.SoliumStockTest" time="0.001"/>
+  <testcase name="testComputeGain_VestAndSale_IllegalLimits" classname="solium.talat.main.SoliumStockTest" time="0.001"/>
+  <testcase name="testComputeGain_VestAndPerform" classname="solium.talat.main.SoliumStockTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

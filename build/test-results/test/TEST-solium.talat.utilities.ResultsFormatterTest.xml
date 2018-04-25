@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="solium.talat.utilities.ResultsFormatterTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2017-06-11T04:58:21" hostname="DESKTOP-SOSFQ7V" time="0.006">
+  <properties/>
+  <testcase name="testFormatCashGain_HighPrecise" classname="solium.talat.utilities.ResultsFormatterTest" time="0.003"/>
+  <testcase name="testFormatGain_LessPrecise" classname="solium.talat.utilities.ResultsFormatterTest" time="0.001"/>
+  <testcase name="testFormatGain_HighPrecise" classname="solium.talat.utilities.ResultsFormatterTest" time="0.0"/>
+  <testcase name="testFormatPrecision_HighUpEquidistant" classname="solium.talat.utilities.ResultsFormatterTest" time="0.0"/>
+  <testcase name="testToNonNegative_NegativeNumber" classname="solium.talat.utilities.ResultsFormatterTest" time="0.0"/>
+  <testcase name="testFormatPrecision_HighUpRound" classname="solium.talat.utilities.ResultsFormatterTest" time="0.0"/>
+  <testcase name="testToNonNegative_PositiveNumber" classname="solium.talat.utilities.ResultsFormatterTest" time="0.0"/>
+  <testcase name="testFormatCashGain_LessPrecise" classname="solium.talat.utilities.ResultsFormatterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
